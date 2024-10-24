@@ -1,0 +1,22 @@
+textarea {
+    min-height: 400px;
+}
+.read,.unread{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.read{
+    background-color: wheat;
+}
+.unread{
+    background-color: aliceblue;
+}
+.buttom{
+    margin-inline:5px ;
+    background-color: #55f;
+    border-radius: 8px;
+    border: none;
+    color: aliceblue;
+}
